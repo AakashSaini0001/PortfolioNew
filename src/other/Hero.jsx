@@ -8,11 +8,11 @@ const Hero = () => {
       backdrop-blur-xl border border-white/10 shadow-xl">
 
       <a 
-        href="#footer" 
-        // target='_blank'
-        className="border border-gray-600 px-3 py-2 rounded-full text-[10px] text-gray-400 uppercase inline-block"
+        href="https://www.linkedin.com/in/aakash-saini-993418263/" 
+        target='_blank'
+        className="border border-gray-600 px-3 py-2 rounded-full text-[10px] text-gray-400 uppercase inline-block text-cyan-300"
       >
-        Tap To Connect
+        LinkedIN
       </a>
 
       <h1 className="text-6xl font-bold text-white leading-tight">
@@ -20,7 +20,7 @@ const Hero = () => {
       </h1>
 
       <p className="text-gray-300 max-w-md leading-relaxed">
-        A full-stack developer crafting web applications. Hands-on experience in high-performance web apps.
+        A full-stack developer crafting web applications. Hands-on experience in building <span className="text-cyan-400">Aesthetic Frontend</span>, <span></span> Backend and handeling Database .
       </p>
 
       <div className="flex gap-4">
