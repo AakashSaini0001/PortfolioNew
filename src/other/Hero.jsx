@@ -1,4 +1,4 @@
-import profile from './image.png';
+import profile from './image.jpg';
 import resume from './Resume_Aakash_Saini.pdf';
 const Hero = () => {
   return (
